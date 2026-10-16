@@ -1,0 +1,7 @@
+# FICTIONAL TRAINING DATA ONLY — example.invalid is a reserved example domain.
+2020-12-13T10:14:02Z host=training-orion-01 event=service_start note="fictional Orion service event"
+2020-12-13T10:15:40Z host=training-web-01 event=http_request uri="https://example.invalid/status"
+2020-12-13T10:16:12Z host=training-endpoint-02 event=process_start process="powershell.exe" note="training example only"
+2020-12-13T10:17:03Z host=training-endpoint-02 event=security_review keyword="SUNBURST" note="training keyword for analyst exercise"
+2020-12-13T10:18:50Z host=training-dc-01 event=authentication result="success" account="student-demo"
+2020-12-13T10:19:30Z host=training-endpoint-02 event=network_connection destination="example.invalid" note="no real connection was made"
