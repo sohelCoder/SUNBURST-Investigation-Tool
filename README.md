@@ -1,3 +1,11 @@
+## 🚀 Live Demo
+
+Try the SUNBURST Investigation Workbench online:
+
+[Open Live Application](https://sunburst-investigation-tool-sohelcoder.streamlit.app)
+
+This is an educational prototype for static file analysis and security-log review.
+
 # SUNBURST Investigation Workbench
 
 A small Streamlit learning tool for static file triage and keyword-based security-log review. It calculates file hashes and entropy, extracts printable ASCII strings, checks selected investigation keywords, and exports JSON reports.
